@@ -1,0 +1,458 @@
+cod_produto,nome_produto,categoria,segmento_produto,marca_produto,cod_vendedor,nome_vendedor,cod_loja,cidade_loja,estado_loja,data_venda,valor_venda,percentual_aumento,venda_final,comissao,ano
+SKU-0000001,LG K10 TV Power,Celulares,Corporativo,LG,1009,Ana Teixeira,SP8821,São Paulo,São Paulo,2012-10-04,679.0,1.2,814.8,20.37,2012
+SKU-0000002,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,SP8821,São Paulo,São Paulo,2012-01-01,832.0,1.15,956.8,23.92,2012
+SKU-0000003,Lavadora 11 Kg,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,SP8821,São Paulo,São Paulo,2012-02-02,790.0,1.15,908.4999999999999,22.712499999999995,2012
+SKU-0000004,Lavadora 11 Kg,Eletrodomésticos,Doméstico,Brastemp,1003,Mateus Gonçalves,SP8821,São Paulo,São Paulo,2012-03-03,765.32,1.15,880.1179999999999,22.002950000000002,2012
+SKU-0000005,Lavadora 11 Kg,Eletrodomésticos,Doméstico,Electrolux,1004,Artur Moreira,SP8821,São Paulo,São Paulo,2012-04-04,459.89,1.15,528.8734999999999,13.221837499999998,2012
+SKU-0000006,Lavadora 11 Kg,Eletrodomésticos,Doméstico,Brastemp,1005,Rodrigo Fagundes,SP8821,São Paulo,São Paulo,2012-05-04,590.98,1.15,679.627,16.990675,2012
+SKU-0000007,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,SP8821,São Paulo,São Paulo,2012-06-04,1000.91,1.15,1151.0465,28.7761625,2012
+SKU-0000008,Geladeira Duplex,Eletrodomésticos,Doméstico,Electrolux,1007,Fernando Zambrini,A9990,Belo Horizonte,Minas Gerais,2012-07-04,1229.0,1.15,1413.35,35.33375,2012
+SKU-0000009,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1003,Mateus Gonçalves,SP8821,São Paulo,São Paulo,2012-08-04,1300.0,1.15,1494.9999999999998,37.37499999999999,2012
+SKU-0000010,Geladeira Duplex,Eletrodomésticos,Doméstico,Electrolux,1002,André Pereira,SP8821,São Paulo,São Paulo,2012-09-04,1290.0,1.15,1483.4999999999998,37.0875,2012
+SKU-0000011,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1009,Ana Teixeira,SP8821,São Paulo,São Paulo,2012-09-04,1287.0,1.15,1480.05,37.00125,2012
+SKU-0000012,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,A9990,Belo Horizonte,Minas Gerais,2012-11-04,1651.0,1.15,1898.6499999999999,47.46625,2012
+SKU-0000013,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,SP8821,São Paulo,São Paulo,2012-11-04,1100.0,1.15,1265.0,31.625,2012
+SKU-0000014,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1003,Mateus Gonçalves,SP8821,São Paulo,São Paulo,2012-12-04,1190.0,1.15,1368.5,34.2125,2012
+SKU-0000015,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1004,Artur Moreira,SP8821,São Paulo,São Paulo,2012-12-04,1190.98,1.15,1369.627,34.240675,2012
+SKU-0000016,Lavadora 11 Kg,Eletrodomésticos,Doméstico,Electrolux,1005,Rodrigo Fagundes,A9990,Belo Horizonte,Minas Gerais,2013-01-02,877.0,1.15,1008.55,25.21375,2013
+SKU-0000017,Lavadora 11 Kg,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,SP8821,São Paulo,São Paulo,2013-02-02,982.0,1.15,1129.3,28.2325,2013
+SKU-0000018,Lavadora 11 Kg,Eletrodomésticos,Doméstico,Brastemp,1007,Fernando Zambrini,SP8821,São Paulo,São Paulo,2013-03-02,872.0,1.15,1002.8,25.07,2013
+SKU-0000019,Lavadora 11 Kg,Eletrodomésticos,Doméstico,Electrolux,1003,Mateus Gonçalves,SP8821,São Paulo,São Paulo,2013-04-02,799.0,1.15,918.8499999999999,22.97125,2013
+SKU-0000020,Lavadora 11 Kg,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,SP8821,São Paulo,São Paulo,2013-05-02,899.0,1.15,1033.85,25.84625,2013
+SKU-0000021,Lavadora 11 Kg,Eletrodomésticos,Doméstico,Brastemp,1009,Ana Teixeira,SP8821,São Paulo,São Paulo,2013-06-02,799.0,1.15,918.8499999999999,22.97125,2013
+SKU-0000022,Lavadora 11 Kg,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,SP8821,São Paulo,São Paulo,2013-07-02,987.0,1.15,1135.05,28.37625,2013
+SKU-0000023,Lavadora 11 Kg,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,SP8821,São Paulo,São Paulo,2013-08-02,699.9,1.15,804.8849999999999,20.122124999999997,2013
+SKU-0000024,Lavadora 11 Kg,Eletrodomésticos,Doméstico,Electrolux,1003,Mateus Gonçalves,SP8821,São Paulo,São Paulo,2013-09-02,789.23,1.15,907.6144999999999,22.690362499999996,2013
+SKU-0000025,Lavadora 11 Kg,Eletrodomésticos,Doméstico,Brastemp,1004,Artur Moreira,SP8821,São Paulo,São Paulo,2013-10-02,789.34,1.15,907.741,22.693525,2013
+SKU-0000026,Lavadora 11 Kg,Eletrodomésticos,Doméstico,Brastemp,1005,Rodrigo Fagundes,SP8821,São Paulo,São Paulo,2013-11-02,764.2,1.15,878.83,21.970750000000002,2013
+SKU-0000027,Lavadora 11 Kg,Eletrodomésticos,Doméstico,Electrolux,1006,Josias Silva,SP8821,São Paulo,São Paulo,2013-12-02,1245.9,1.15,1432.785,35.819625,2013
+SKU-0000028,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1007,Fernando Zambrini,SP8821,São Paulo,São Paulo,2013-01-02,1345.87,1.15,1547.7504999999996,38.69376249999999,2013
+SKU-0000029,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1003,Mateus Gonçalves,SP8821,São Paulo,São Paulo,2013-02-02,1234.12,1.15,1419.2379999999998,35.48094999999999,2013
+SKU-0000030,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,SP8821,São Paulo,São Paulo,2013-03-02,1245.9,1.15,1432.785,35.819625,2013
+SKU-0000031,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1001,Maria Fernandes,SP8821,São Paulo,São Paulo,2013-04-02,1345.87,1.15,1547.7504999999996,38.69376249999999,2013
+SKU-0000032,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1001,Maria Fernandes,SP8821,São Paulo,São Paulo,2013-05-02,1234.12,1.15,1419.2379999999998,35.48094999999999,2013
+SKU-0000033,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1001,Maria Fernandes,SP8823,São Paulo,São Paulo,2013-06-02,1245.9,1.15,1432.785,35.819625,2013
+SKU-0000034,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,SP8823,São Paulo,São Paulo,2013-07-02,1345.87,1.15,1547.7504999999996,38.69376249999999,2013
+SKU-0000035,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1003,Mateus Gonçalves,SP8823,São Paulo,São Paulo,2013-08-02,1234.12,1.15,1419.2379999999998,35.48094999999999,2013
+SKU-0000036,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1004,Artur Moreira,SP8823,São Paulo,São Paulo,2013-09-02,1245.9,1.15,1432.785,35.819625,2013
+SKU-0000037,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1005,Rodrigo Fagundes,SP8823,São Paulo,São Paulo,2013-10-02,1345.87,1.15,1547.7504999999996,38.69376249999999,2013
+SKU-0000038,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,SP8823,São Paulo,São Paulo,2013-11-02,1234.12,1.15,1419.2379999999998,35.48094999999999,2013
+SKU-0000039,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1007,Fernando Zambrini,SP8823,São Paulo,São Paulo,2013-12-02,1245.9,1.15,1432.785,35.819625,2013
+SKU-0000040,Notebook Dell 8 GB,Eletrônicos,Corporativo,Dell,1008,Aline Sutter,R1296,Rio de Janeiro,Rio de Janeiro,2012-01-01,1345.87,1.23,1655.4200999999998,41.385502499999994,2012
+SKU-0000041,Notebook Dell 8 GB,Eletrônicos,Corporativo,Dell,1009,Ana Teixeira,R1296,Rio de Janeiro,Rio de Janeiro,2012-02-01,1234.12,1.23,1517.9676,37.94919,2012
+SKU-0000042,Notebook Dell 8 GB,Eletrônicos,Corporativo,Dell,1001,Maria Fernandes,V7654,Vitória,Espírito Santo,2012-03-01,1245.9,1.23,1532.457,38.31142500000001,2012
+SKU-0000043,Notebook Dell 8 GB,Eletrônicos,Corporativo,Dell,1001,Maria Fernandes,A9990,Belo Horizonte,Minas Gerais,2012-04-01,1345.87,1.23,1655.4200999999998,41.385502499999994,2012
+SKU-0000044,Notebook Dell 8 GB,Eletrônicos,Corporativo,Dell,1002,André Pereira,SP8823,São Paulo,São Paulo,2012-05-01,1234.12,1.23,1517.9676,37.94919,2012
+SKU-0000045,Notebook Dell 8 GB,Eletrônicos,Corporativo,Dell,1003,Mateus Gonçalves,SP8823,São Paulo,São Paulo,2012-06-01,1245.9,1.23,1532.457,38.31142500000001,2012
+SKU-0000046,Notebook Dell 8 GB,Eletrônicos,Corporativo,Dell,1004,Artur Moreira,SP8823,São Paulo,São Paulo,2012-07-01,1345.87,1.23,1655.4200999999998,41.385502499999994,2012
+SKU-0000047,Notebook Dell 8 GB,Eletrônicos,Corporativo,Dell,1005,Rodrigo Fagundes,SP8823,São Paulo,São Paulo,2012-08-01,1234.12,1.23,1517.9676,37.94919,2012
+SKU-0000048,Notebook Dell 8 GB,Eletrônicos,Corporativo,Dell,1006,Josias Silva,R1296,Rio de Janeiro,Rio de Janeiro,2012-09-01,1245.9,1.23,1532.457,38.31142500000001,2012
+SKU-0000049,Notebook Dell 8 GB,Eletrônicos,Corporativo,Dell,1007,Fernando Zambrini,V7654,Vitória,Espírito Santo,2012-10-01,1345.87,1.23,1655.4200999999998,41.385502499999994,2012
+SKU-0000050,Desktop HP 16 GB,Eletrônicos,Corporativo,HP,1008,Aline Sutter,SP8823,São Paulo,São Paulo,2012-11-01,1234.12,1.23,1517.9676,37.94919,2012
+SKU-0000051,Desktop HP 16 GB,Eletrônicos,Corporativo,HP,1009,Ana Teixeira,SP8823,São Paulo,São Paulo,2012-12-01,900.0,1.23,1107.0,27.675,2012
+SKU-0000052,Desktop HP 16 GB,Eletrônicos,Corporativo,HP,1006,Josias Silva,SP8823,São Paulo,São Paulo,2013-01-02,999.0,1.23,1228.77,30.719250000000002,2013
+SKU-0000053,Desktop HP 16 GB,Eletrônicos,Corporativo,HP,1006,Josias Silva,SP8823,São Paulo,São Paulo,2013-02-02,1234.0,1.23,1517.82,37.945499999999996,2013
+SKU-0000054,Desktop HP 16 GB,Eletrônicos,Corporativo,HP,1003,Mateus Gonçalves,SP8823,São Paulo,São Paulo,2013-03-02,998.0,1.23,1227.54,30.688499999999998,2013
+SKU-0000055,Desktop HP 16 GB,Eletrônicos,Corporativo,HP,1004,Artur Moreira,SP8823,São Paulo,São Paulo,2013-04-02,999.0,1.23,1228.77,30.719250000000002,2013
+SKU-0000056,Desktop HP 16 GB,Eletrônicos,Corporativo,HP,1005,Rodrigo Fagundes,SP8823,São Paulo,São Paulo,2013-05-02,999.99,1.23,1229.9877,30.749692499999995,2013
+SKU-0000057,Desktop HP 16 GB,Eletrônicos,Corporativo,HP,1006,Josias Silva,V7654,Vitória,Espírito Santo,2013-06-02,982.0,1.23,1207.86,30.196499999999997,2013
+SKU-0000058,Desktop HP 16 GB,Eletrônicos,Corporativo,HP,1007,Fernando Zambrini,R1296,Rio de Janeiro,Rio de Janeiro,2013-07-02,1002.0,1.23,1232.46,30.811500000000002,2013
+SKU-0000059,Desktop HP 16 GB,Eletrônicos,Corporativo,HP,1003,Mateus Gonçalves,SP8823,São Paulo,São Paulo,2013-08-02,376.0,1.23,462.48,11.562000000000001,2013
+SKU-0000060,Desktop HP 16 GB,Eletrônicos,Corporativo,HP,1002,André Pereira,A9990,Belo Horizonte,Minas Gerais,2013-09-02,899.0,1.23,1105.77,27.644250000000003,2013
+SKU-0000061,Desktop HP 16 GB,Eletrônicos,Corporativo,HP,1009,Ana Teixeira,SP8823,São Paulo,São Paulo,2013-10-02,799.0,1.23,982.77,24.56925,2013
+SKU-0000062,Desktop HP 16 GB,Eletrônicos,Corporativo,HP,1006,Josias Silva,SP8823,São Paulo,São Paulo,2013-11-02,1356.0,1.23,1667.8799999999999,41.696999999999996,2013
+SKU-0000063,Desktop HP 16 GB,Eletrônicos,Corporativo,HP,1006,Josias Silva,SP8823,São Paulo,São Paulo,2013-12-02,1788.0,1.23,2199.24,54.980999999999995,2013
+SKU-0000064,Micro-Ondas,Eletrodomésticos,Industrial,Consul,1003,Mateus Gonçalves,SP8823,São Paulo,São Paulo,2012-01-01,459.0,1.15,527.8499999999999,13.196249999999997,2012
+SKU-0000065,Grill,Eletrodomésticos,Doméstico,Panasonic,1004,Artur Moreira,SP8823,São Paulo,São Paulo,2012-02-01,234.0,1.15,269.09999999999997,6.727499999999999,2012
+SKU-0000066,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1005,Rodrigo Fagundes,SP8823,São Paulo,São Paulo,2012-03-01,345.0,1.15,396.74999999999994,9.91875,2012
+SKU-0000067,Forno-Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1006,Josias Silva,SP8823,São Paulo,São Paulo,2012-04-01,1345.0,1.15,1546.7499999999998,38.668749999999996,2012
+SKU-0000068,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1007,Fernando Zambrini,SP8823,São Paulo,São Paulo,2012-05-01,675.0,1.15,776.2499999999999,19.406249999999996,2012
+SKU-0000069,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1003,Mateus Gonçalves,SP8823,São Paulo,São Paulo,2012-06-01,123.0,1.15,141.45,3.53625,2012
+SKU-0000070,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1002,André Pereira,SP8823,São Paulo,São Paulo,2012-07-01,455.0,1.15,523.25,13.08125,2012
+SKU-0000071,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1009,Ana Teixeira,V7654,Vitória,Espírito Santo,2012-08-01,566.0,1.15,650.9,16.2725,2012
+SKU-0000072,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1006,Josias Silva,R1296,Rio de Janeiro,Rio de Janeiro,2012-09-01,1200.0,1.15,1380.0,34.5,2012
+SKU-0000073,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1006,Josias Silva,A9990,Belo Horizonte,Minas Gerais,2012-10-01,1220.0,1.15,1403.0,35.075,2012
+SKU-0000074,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1003,Mateus Gonçalves,SP8823,São Paulo,São Paulo,2012-11-01,123.0,1.15,141.45,3.53625,2012
+SKU-0000075,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1004,Artur Moreira,SP8823,São Paulo,São Paulo,2012-12-01,445.0,1.15,511.74999999999994,12.793749999999998,2012
+SKU-0000076,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1005,Rodrigo Fagundes,SP8823,São Paulo,São Paulo,2013-01-02,345.0,1.15,396.74999999999994,9.91875,2013
+SKU-0000077,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1006,Josias Silva,SP8823,São Paulo,São Paulo,2013-02-02,1220.0,1.15,1403.0,35.075,2013
+SKU-0000078,Grill,Eletrodomésticos,Doméstico,Panasonic,1007,Fernando Zambrini,SP8823,São Paulo,São Paulo,2013-03-02,124.0,1.15,142.6,3.565,2013
+SKU-0000079,Grill,Eletrodomésticos,Doméstico,Panasonic,1003,Mateus Gonçalves,A9990,Belo Horizonte,Minas Gerais,2013-04-02,123.0,1.15,141.45,3.53625,2013
+SKU-0000080,Grill,Eletrodomésticos,Doméstico,Panasonic,1002,André Pereira,SP8823,São Paulo,São Paulo,2013-05-02,230.0,1.15,264.5,6.6125,2013
+SKU-0000081,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1001,Maria Fernandes,R1296,Rio de Janeiro,Rio de Janeiro,2013-06-02,290.0,1.15,333.5,8.3375,2013
+SKU-0000082,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1001,Maria Fernandes,SP8823,São Paulo,São Paulo,2013-07-02,290.0,1.15,333.5,8.3375,2013
+SKU-0000083,Forno-Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1001,Maria Fernandes,SP8823,São Paulo,São Paulo,2013-08-02,290.0,1.15,333.5,8.3375,2013
+SKU-0000084,Forno-Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1009,Ana Teixeira,A9990,Belo Horizonte,Minas Gerais,2013-09-02,290.0,1.15,333.5,8.3375,2013
+SKU-0000085,Forno-Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1006,Josias Silva,SP8823,São Paulo,São Paulo,2013-10-02,1100.0,1.15,1265.0,31.625,2013
+SKU-0000086,Forno-Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1006,Josias Silva,SP8823,São Paulo,São Paulo,2013-11-02,1234.89,1.15,1420.1235,35.5030875,2013
+SKU-0000087,Forno-Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1003,Mateus Gonçalves,SP8823,São Paulo,São Paulo,2013-12-02,123.0,1.15,141.45,3.53625,2013
+SKU-0000088,Fritadeira,Eletroportáteis,Doméstico,Arno,1004,Artur Moreira,P0761,Cascavel,Paraná,2013-01-02,297.0,2.0,594.0,14.85,2013
+SKU-0000089,Ar Condicionado,Eletrodomésticos,Industrial,Samsung,1005,Rodrigo Fagundes,SA7761,Salvador,Bahia,2013-02-02,1299.0,1.15,1493.85,37.34625,2013
+SKU-0000090,Aspirador,Eletroportáteis,Doméstico,Britânia,1006,Josias Silva,P0761,Cascavel,Paraná,2013-03-02,167.0,2.0,334.0,8.35,2013
+SKU-0000091,Ar Condicionado,Eletrodomésticos,Industrial,Samsung,1007,Fernando Zambrini,SA7761,Salvador,Bahia,2013-04-02,1399.0,1.15,1608.85,40.22125,2013
+SKU-0000092,Aspirador,Eletroportáteis,Doméstico,Britânia,1003,Mateus Gonçalves,V7654,Vitória,Espírito Santo,2013-05-02,168.0,2.0,336.0,8.4,2013
+SKU-0000093,Ar Condicionado,Eletrodomésticos,Industrial,Samsung,1002,André Pereira,R1296,Rio de Janeiro,Rio de Janeiro,2013-06-02,1278.0,1.15,1469.6999999999998,36.74249999999999,2013
+SKU-0000094,Aspirador,Eletroportáteis,Doméstico,Britânia,1009,Ana Teixeira,SP8823,São Paulo,São Paulo,2013-07-02,150.0,2.0,300.0,7.5,2013
+SKU-0000095,Ar Condicionado,Eletrodomésticos,Industrial,Samsung,1006,Josias Silva,A9990,Belo Horizonte,Minas Gerais,2013-08-02,1190.0,1.15,1368.5,34.2125,2013
+SKU-0000096,Aspirador,Eletroportáteis,Doméstico,Britânia,1006,Josias Silva,SP8823,São Paulo,São Paulo,2013-09-02,149.0,2.0,298.0,7.45,2013
+SKU-0000097,Ar Condicionado,Eletrodomésticos,Industrial,Samsung,1003,Mateus Gonçalves,R1296,Rio de Janeiro,Rio de Janeiro,2013-10-02,1290.0,1.15,1483.4999999999998,37.0875,2013
+SKU-0000098,Aspirador,Eletroportáteis,Doméstico,Britânia,1004,Artur Moreira,SP8823,São Paulo,São Paulo,2013-11-02,135.0,2.0,270.0,6.75,2013
+SKU-0000099,Aspirador,Eletroportáteis,Doméstico,Britânia,1005,Rodrigo Fagundes,SP8823,São Paulo,São Paulo,2013-12-02,139.0,2.0,278.0,6.95,2013
+SKU-0000100,Aspirador,Eletroportáteis,Doméstico,Britânia,1006,Josias Silva,SP8823,São Paulo,São Paulo,2013-01-02,128.0,2.0,256.0,6.4,2013
+SKU-0000101,Aspirador,Eletroportáteis,Doméstico,Britânia,1007,Fernando Zambrini,SP8823,São Paulo,São Paulo,2013-02-02,138.0,2.0,276.0,6.9,2013
+SKU-0000102,Aspirador,Eletroportáteis,Doméstico,Britânia,1003,Mateus Gonçalves,SP8823,São Paulo,São Paulo,2013-03-02,137.0,2.0,274.0,6.85,2013
+SKU-0000103,Aspirador,Eletroportáteis,Doméstico,Britânia,1002,André Pereira,SP8823,São Paulo,São Paulo,2013-04-02,126.0,2.0,252.0,6.3,2013
+SKU-0000104,Aspirador,Eletroportáteis,Doméstico,Britânia,1009,Ana Teixeira,SP8822,São Paulo,São Paulo,2013-05-02,136.0,2.0,272.0,6.8,2013
+SKU-0000105,Aspirador,Eletroportáteis,Doméstico,Britânia,1006,Josias Silva,SP8822,São Paulo,São Paulo,2013-06-02,139.0,2.0,278.0,6.95,2013
+SKU-0000106,Aspirador,Eletroportáteis,Doméstico,Britânia,1006,Josias Silva,SP8822,São Paulo,São Paulo,2013-07-02,150.0,2.0,300.0,7.5,2013
+SKU-0000107,Aspirador,Eletroportáteis,Doméstico,Britânia,1003,Mateus Gonçalves,SP8822,São Paulo,São Paulo,2013-08-02,167.0,2.0,334.0,8.35,2013
+SKU-0000108,Aspirador,Eletroportáteis,Doméstico,Britânia,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2013-09-02,179.0,2.0,358.0,8.95,2013
+SKU-0000109,Aspirador,Eletroportáteis,Doméstico,Britânia,1005,Rodrigo Fagundes,SP8822,São Paulo,São Paulo,2013-10-02,149.0,2.0,298.0,7.45,2013
+SKU-0000110,Aspirador,Eletroportáteis,Doméstico,Britânia,1006,Josias Silva,SP8822,São Paulo,São Paulo,2013-11-02,149.0,2.0,298.0,7.45,2013
+SKU-0000111,Aspirador,Eletroportáteis,Doméstico,Britânia,1007,Fernando Zambrini,SP8822,São Paulo,São Paulo,2013-12-02,149.0,2.0,298.0,7.45,2013
+SKU-0000112,Impressora Deskjet,Eletrônicos,Doméstico,HP,1003,Mateus Gonçalves,SP8822,São Paulo,São Paulo,2013-01-02,398.0,1.23,489.54,12.238500000000002,2013
+SKU-0000113,Impressora Deskjet,Eletrônicos,Doméstico,HP,1002,André Pereira,SP8822,São Paulo,São Paulo,2013-02-02,788.0,1.23,969.24,24.230999999999998,2013
+SKU-0000114,Impressora Deskjet,Eletrônicos,Doméstico,HP,1001,Maria Fernandes,SP8822,São Paulo,São Paulo,2013-03-02,766.0,1.23,942.18,23.554499999999997,2013
+SKU-0000115,Impressora Deskjet,Eletrônicos,Doméstico,HP,1001,Maria Fernandes,SP8822,São Paulo,São Paulo,2013-04-02,655.0,1.23,805.65,20.14125,2013
+SKU-0000116,Impressora Deskjet,Eletrônicos,Doméstico,HP,1001,Maria Fernandes,SP8822,São Paulo,São Paulo,2013-05-02,788.0,1.23,969.24,24.230999999999998,2013
+SKU-0000117,Impressora Deskjet,Eletrônicos,Doméstico,HP,1009,Ana Teixeira,SP8822,São Paulo,São Paulo,2013-06-02,655.0,1.23,805.65,20.14125,2013
+SKU-0000118,Impressora Deskjet,Eletrônicos,Doméstico,HP,1006,Josias Silva,SP8822,São Paulo,São Paulo,2013-07-02,655.0,1.23,805.65,20.14125,2013
+SKU-0000119,Impressora Deskjet,Eletrônicos,Doméstico,HP,1006,Josias Silva,SP8822,São Paulo,São Paulo,2013-08-02,455.12,1.23,559.7976,13.99494,2013
+SKU-0000120,Impressora Deskjet,Eletrônicos,Doméstico,HP,1003,Mateus Gonçalves,SP8822,São Paulo,São Paulo,2013-09-02,262.0,1.23,322.26,8.0565,2013
+SKU-0000121,Impressora Deskjet,Eletrônicos,Doméstico,HP,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2013-10-02,445.0,1.23,547.35,13.68375,2013
+SKU-0000122,Impressora Deskjet,Eletrônicos,Doméstico,HP,1005,Rodrigo Fagundes,SP8822,São Paulo,São Paulo,2013-11-02,655.0,1.23,805.65,20.14125,2013
+SKU-0000123,Impressora Deskjet,Eletrônicos,Doméstico,HP,1006,Josias Silva,SP8822,São Paulo,São Paulo,2013-12-02,555.32,1.23,683.0436000000001,17.07609,2013
+SKU-0000124,Secadora Vapor,Eletrodomésticos,Doméstico,Brastemp,1007,Fernando Zambrini,SP8822,São Paulo,São Paulo,2013-01-02,456.0,1.15,524.4,13.11,2013
+SKU-0000125,Secadora Vapor,Eletrodomésticos,Doméstico,Brastemp,1003,Mateus Gonçalves,SP8822,São Paulo,São Paulo,2013-02-02,277.0,1.15,318.54999999999995,7.963749999999999,2013
+SKU-0000126,Secadora Vapor,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,SP8822,São Paulo,São Paulo,2013-03-02,877.0,1.15,1008.55,25.21375,2013
+SKU-0000127,Secadora Vapor,Eletrodomésticos,Doméstico,Brastemp,1009,Ana Teixeira,SP8822,São Paulo,São Paulo,2013-04-02,988.0,1.15,1136.1999999999998,28.404999999999994,2013
+SKU-0000128,Secadora Vapor,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,SP8822,São Paulo,São Paulo,2013-05-02,567.32,1.15,652.418,16.31045,2013
+SKU-0000129,Secadora Vapor,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,P0761,Cascavel,Paraná,2013-06-02,799.9,1.15,919.8849999999999,22.997124999999997,2013
+SKU-0000130,Secadora Vapor,Eletrodomésticos,Doméstico,Brastemp,1003,Mateus Gonçalves,SP8822,São Paulo,São Paulo,2013-07-02,1200.0,1.15,1380.0,34.5,2013
+SKU-0000131,Secadora Vapor,Eletrodomésticos,Doméstico,Brastemp,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2013-08-02,345.0,1.15,396.74999999999994,9.91875,2013
+SKU-0000132,Secadora Vapor,Eletrodomésticos,Doméstico,Brastemp,1005,Rodrigo Fagundes,SP8822,São Paulo,São Paulo,2013-09-02,433.0,1.15,497.95,12.44875,2013
+SKU-0000133,Secadora Vapor,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,SP8822,São Paulo,São Paulo,2013-10-02,345.89,1.15,397.77349999999996,9.9443375,2013
+SKU-0000134,Secadora Vapor,Eletrodomésticos,Doméstico,Brastemp,1007,Fernando Zambrini,SP8822,São Paulo,São Paulo,2013-11-02,467.0,1.15,537.05,13.42625,2013
+SKU-0000135,Secadora Vapor,Eletrodomésticos,Doméstico,Brastemp,1003,Mateus Gonçalves,SP8822,São Paulo,São Paulo,2013-12-02,1220.0,1.15,1403.0,35.075,2013
+SKU-0000136,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,A9990,Belo Horizonte,Minas Gerais,2013-01-09,1233.0,1.15,1417.9499999999998,35.44875,2013
+SKU-0000137,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1009,Ana Teixeira,A9990,Belo Horizonte,Minas Gerais,2013-01-10,1233.0,1.15,1417.9499999999998,35.44875,2013
+SKU-0000138,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,A9990,Belo Horizonte,Minas Gerais,2013-02-11,721.0,1.15,829.15,20.72875,2013
+SKU-0000139,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,V7654,Vitória,Espírito Santo,2013-03-12,671.0,1.15,771.65,19.29125,2013
+SKU-0000140,Samsung Galaxy 8,Celulares,Corporativo,Samsung,1003,Mateus Gonçalves,V7654,Vitória,Espírito Santo,2013-03-13,1899.0,1.2,2278.7999999999997,56.96999999999999,2013
+SKU-0000141,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1004,Artur Moreira,A9990,Belo Horizonte,Minas Gerais,2013-03-14,346.0,1.15,397.9,9.9475,2013
+SKU-0000142,Sony Experia XA,Celulares,Doméstico,Sony,1005,Rodrigo Fagundes,A9990,Belo Horizonte,Minas Gerais,2013-04-15,699.0,1.2,838.8,20.97,2013
+SKU-0000143,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,A9990,Belo Horizonte,Minas Gerais,2013-04-16,876.0,1.15,1007.4,25.185,2013
+SKU-0000144,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1007,Fernando Zambrini,V7654,Vitória,Espírito Santo,2013-05-17,655.0,1.15,753.2499999999999,18.831249999999997,2013
+SKU-0000145,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1003,Mateus Gonçalves,V7654,Vitória,Espírito Santo,2013-05-18,1200.0,1.15,1380.0,34.5,2013
+SKU-0000146,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,A9990,Belo Horizonte,Minas Gerais,2013-05-19,1229.0,1.15,1413.35,35.33375,2013
+SKU-0000147,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1001,Maria Fernandes,A9990,Belo Horizonte,Minas Gerais,2013-06-20,1228.0,1.15,1412.1999999999998,35.30499999999999,2013
+SKU-0000148,Samsung Galaxy 8,Celulares,Corporativo,Samsung,1001,Maria Fernandes,A9990,Belo Horizonte,Minas Gerais,2013-07-21,3999.0,1.2,4798.8,119.97,2013
+SKU-0000149,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1001,Maria Fernandes,V7654,Vitória,Espírito Santo,2013-07-22,1229.0,1.15,1413.35,35.33375,2013
+SKU-0000150,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1009,Ana Teixeira,V7654,Vitória,Espírito Santo,2013-09-23,1299.0,1.15,1493.85,37.34625,2013
+SKU-0000151,Samsung Galaxy 8,Celulares,Corporativo,Samsung,1004,Artur Moreira,V7654,Vitória,Espírito Santo,2013-10-24,3999.0,1.2,4798.8,119.97,2013
+SKU-0000152,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1007,Fernando Zambrini,A9990,Belo Horizonte,Minas Gerais,2013-11-25,1234.0,1.15,1419.1,35.4775,2013
+SKU-0000153,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,V7654,Vitória,Espírito Santo,2013-11-26,875.0,1.15,1006.2499999999999,25.156249999999996,2013
+SKU-0000154,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1005,Rodrigo Fagundes,A9990,Belo Horizonte,Minas Gerais,2013-11-27,433.0,1.15,497.95,12.44875,2013
+SKU-0000155,Samsung Galaxy 8,Celulares,Corporativo,Samsung,1009,Ana Teixeira,SP8822,São Paulo,São Paulo,2014-10-04,3999.0,1.2,4798.8,119.97,2014
+SKU-0000156,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,SP8822,São Paulo,São Paulo,2014-01-01,1288.0,1.15,1481.1999999999998,37.029999999999994,2014
+SKU-0000157,Samsung Galaxy 8,Celulares,Corporativo,Samsung,1003,Mateus Gonçalves,SP8822,São Paulo,São Paulo,2014-02-02,3999.0,1.2,4798.8,119.97,2014
+SKU-0000158,Samsung Galaxy 8,Celulares,Corporativo,Samsung,1006,Josias Silva,SP8822,São Paulo,São Paulo,2014-03-03,3999.0,1.2,4798.8,119.97,2014
+SKU-0000159,Samsung Galaxy 8,Celulares,Corporativo,Samsung,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2014-04-04,3999.0,1.2,4798.8,119.97,2014
+SKU-0000160,Samsung Galaxy 8,Celulares,Corporativo,Samsung,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2014-05-04,3999.0,1.2,4798.8,119.97,2014
+SKU-0000161,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1007,Fernando Zambrini,SP8822,São Paulo,São Paulo,2014-06-04,1234.0,1.15,1419.1,35.4775,2014
+SKU-0000162,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1004,Artur Moreira,A9990,Belo Horizonte,Minas Gerais,2014-07-04,1235.0,1.15,1420.25,35.50625,2014
+SKU-0000163,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,SP8822,São Paulo,São Paulo,2014-08-04,1200.0,1.15,1380.0,34.5,2014
+SKU-0000164,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1005,Rodrigo Fagundes,SP8822,São Paulo,São Paulo,2014-09-04,788.0,1.15,906.1999999999999,22.655,2014
+SKU-0000165,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1003,Mateus Gonçalves,A9990,Belo Horizonte,Minas Gerais,2014-11-04,761.0,1.15,875.15,21.87875,2014
+SKU-0000166,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2014-11-04,987.0,1.15,1135.05,28.37625,2014
+SKU-0000167,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1003,Mateus Gonçalves,SP8822,São Paulo,São Paulo,2014-12-04,1567.0,1.15,1802.05,45.05125,2014
+SKU-0000168,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1009,Ana Teixeira,SP8822,São Paulo,São Paulo,2014-12-04,1287.0,1.15,1480.05,37.00125,2014
+SKU-0000169,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,A9990,Belo Horizonte,Minas Gerais,2015-01-02,1287.0,1.15,1480.05,37.00125,2015
+SKU-0000170,Samsung Galaxy 8,Celulares,Corporativo,Samsung,1001,Maria Fernandes,SP8822,São Paulo,São Paulo,2015-02-02,3999.0,1.2,4798.8,119.97,2015
+SKU-0000171,Samsung Galaxy 8,Celulares,Corporativo,Samsung,1002,André Pereira,S6543,Osasco,São Paulo,2015-03-02,3999.0,1.2,4798.8,119.97,2015
+SKU-0000172,Samsung Galaxy 8,Celulares,Corporativo,Samsung,1002,André Pereira,S6543,Osasco,São Paulo,2015-04-02,3999.0,1.2,4798.8,119.97,2015
+SKU-0000173,Samsung Galaxy 8,Celulares,Corporativo,Samsung,1004,Artur Moreira,S6543,Osasco,São Paulo,2015-05-02,3999.0,1.2,4798.8,119.97,2015
+SKU-0000174,Samsung Galaxy 8,Celulares,Corporativo,Samsung,1002,André Pereira,B7659,Campinas,São Paulo,2015-06-02,3999.0,1.2,4798.8,119.97,2015
+SKU-0000175,Samsung Galaxy 8,Celulares,Corporativo,Samsung,1002,André Pereira,B7659,Campinas,São Paulo,2015-07-02,3999.0,1.2,4798.8,119.97,2015
+SKU-0000176,Samsung Galaxy 8,Celulares,Corporativo,Samsung,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2015-08-02,3999.0,1.2,4798.8,119.97,2015
+SKU-0000177,Samsung Galaxy 8,Celulares,Corporativo,Samsung,1002,André Pereira,SP8822,São Paulo,São Paulo,2015-09-02,3999.0,1.2,4798.8,119.97,2015
+SKU-0000178,Morotola Moto G5,Celulares,Doméstico,Motorola,1002,André Pereira,SP8822,São Paulo,São Paulo,2015-10-02,1230.0,1.2,1476.0,36.9,2015
+SKU-0000179,Morotola Moto G5,Celulares,Doméstico,Motorola,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2015-11-02,1230.0,1.2,1476.0,36.9,2015
+SKU-0000180,Morotola Moto G5,Celulares,Doméstico,Motorola,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2015-12-02,1230.0,1.2,1476.0,36.9,2015
+SKU-0000181,Morotola Moto G5,Celulares,Doméstico,Motorola,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2015-01-02,1230.0,1.2,1476.0,36.9,2015
+SKU-0000182,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,SP8822,São Paulo,São Paulo,2015-02-02,1220.0,1.15,1403.0,35.075,2015
+SKU-0000183,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1007,Fernando Zambrini,SP8822,São Paulo,São Paulo,2015-03-02,1234.0,1.15,1419.1,35.4775,2015
+SKU-0000184,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1003,Mateus Gonçalves,SP8822,São Paulo,São Paulo,2015-04-02,1579.0,1.15,1815.85,45.39625,2015
+SKU-0000185,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,SP8822,São Paulo,São Paulo,2015-05-02,1288.0,1.15,1481.1999999999998,37.029999999999994,2015
+SKU-0000186,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1009,Ana Teixeira,SP8822,São Paulo,São Paulo,2015-06-02,1222.0,1.15,1405.3,35.1325,2015
+SKU-0000187,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,SP8822,São Paulo,São Paulo,2015-07-02,1210.0,1.15,1391.5,34.7875,2015
+SKU-0000188,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,SP8822,São Paulo,São Paulo,2015-08-02,1212.0,1.15,1393.8,34.845,2015
+SKU-0000189,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1003,Mateus Gonçalves,SP8822,São Paulo,São Paulo,2015-09-02,1899.0,1.15,2183.85,54.59625,2015
+SKU-0000190,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2015-10-02,567.0,1.15,652.05,16.30125,2015
+SKU-0000191,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1005,Rodrigo Fagundes,SP8822,São Paulo,São Paulo,2015-11-02,189.0,1.15,217.35,5.43375,2015
+SKU-0000192,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1006,Josias Silva,SP8822,São Paulo,São Paulo,2015-12-02,1212.0,1.15,1393.8,34.845,2015
+SKU-0000193,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1007,Fernando Zambrini,R1296,Rio de Janeiro,Rio de Janeiro,2014-01-01,1234.0,1.15,1419.1,35.4775,2014
+SKU-0000194,Aspirador,Eletroportáteis,Doméstico,Britânia,1003,Mateus Gonçalves,R1296,Rio de Janeiro,Rio de Janeiro,2014-02-01,763.0,2.0,1526.0,38.15,2014
+SKU-0000195,Aspirador,Eletroportáteis,Doméstico,Britânia,1002,André Pereira,V7654,Vitória,Espírito Santo,2014-03-01,149.0,2.0,298.0,7.45,2014
+SKU-0000196,Aspirador,Eletroportáteis,Doméstico,Britânia,1001,Maria Fernandes,A9990,Belo Horizonte,Minas Gerais,2014-04-01,148.0,2.0,296.0,7.4,2014
+SKU-0000197,Aspirador,Eletroportáteis,Doméstico,Britânia,1001,Maria Fernandes,SP8822,São Paulo,São Paulo,2014-05-01,139.0,2.0,278.0,6.95,2014
+SKU-0000198,Fritadeira,Eletroportáteis,Doméstico,Arno,1001,Maria Fernandes,SP8822,São Paulo,São Paulo,2014-06-01,138.0,2.0,276.0,6.9,2014
+SKU-0000199,Fritadeira,Eletroportáteis,Doméstico,Arno,1009,Ana Teixeira,SP8822,São Paulo,São Paulo,2014-07-01,137.0,2.0,274.0,6.85,2014
+SKU-0000200,Fritadeira,Eletroportáteis,Doméstico,Arno,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2014-08-01,121.0,2.0,242.0,6.05,2014
+SKU-0000201,Fritadeira,Eletroportáteis,Doméstico,Arno,1007,Fernando Zambrini,R1296,Rio de Janeiro,Rio de Janeiro,2014-09-01,129.0,2.0,258.0,6.45,2014
+SKU-0000202,Fritadeira,Eletroportáteis,Doméstico,Arno,1006,Josias Silva,V7654,Vitória,Espírito Santo,2014-10-01,128.0,2.0,256.0,6.4,2014
+SKU-0000203,Fritadeira,Eletroportáteis,Doméstico,Arno,1005,Rodrigo Fagundes,SP8822,São Paulo,São Paulo,2014-11-01,129.0,2.0,258.0,6.45,2014
+SKU-0000204,Fritadeira,Eletroportáteis,Doméstico,Arno,1009,Ana Teixeira,SP8822,São Paulo,São Paulo,2014-12-01,129.0,2.0,258.0,6.45,2014
+SKU-0000205,Fritadeira,Eletroportáteis,Doméstico,Arno,1002,André Pereira,SP8822,São Paulo,São Paulo,2015-01-02,128.0,2.0,256.0,6.4,2015
+SKU-0000206,Fritadeira,Eletroportáteis,Doméstico,Arno,1003,Mateus Gonçalves,SP8822,São Paulo,São Paulo,2015-02-02,129.0,2.0,258.0,6.45,2015
+SKU-0000207,Fritadeira,Eletroportáteis,Doméstico,Arno,1006,Josias Silva,SP8822,São Paulo,São Paulo,2015-03-02,121.0,2.0,242.0,6.05,2015
+SKU-0000208,Fritadeira,Eletroportáteis,Doméstico,Arno,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2015-04-02,121.0,2.0,242.0,6.05,2015
+SKU-0000209,Fritadeira,Eletroportáteis,Doméstico,Arno,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2015-05-02,121.0,2.0,242.0,6.05,2015
+SKU-0000210,Fritadeira,Eletroportáteis,Doméstico,Arno,1007,Fernando Zambrini,V7654,Vitória,Espírito Santo,2015-06-02,121.0,2.0,242.0,6.05,2015
+SKU-0000211,Fritadeira,Eletroportáteis,Doméstico,Arno,1004,Artur Moreira,R1296,Rio de Janeiro,Rio de Janeiro,2015-07-02,121.0,2.0,242.0,6.05,2015
+SKU-0000212,Fritadeira,Eletroportáteis,Doméstico,Arno,1006,Josias Silva,SP8822,São Paulo,São Paulo,2015-08-02,121.0,2.0,242.0,6.05,2015
+SKU-0000213,Fritadeira,Eletroportáteis,Doméstico,Arno,1005,Rodrigo Fagundes,A9990,Belo Horizonte,Minas Gerais,2015-09-02,121.0,2.0,242.0,6.05,2015
+SKU-0000214,Fritadeira,Eletroportáteis,Doméstico,Arno,1003,Mateus Gonçalves,SP8822,São Paulo,São Paulo,2015-10-02,121.0,2.0,242.0,6.05,2015
+SKU-0000215,Fritadeira,Eletroportáteis,Doméstico,Arno,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2015-11-02,121.0,2.0,242.0,6.05,2015
+SKU-0000216,Fritadeira,Eletroportáteis,Doméstico,Arno,1003,Mateus Gonçalves,SP8822,São Paulo,São Paulo,2015-12-02,121.0,2.0,242.0,6.05,2015
+SKU-0000217,Aspirador,Eletroportáteis,Doméstico,Britânia,1009,Ana Teixeira,SP8822,São Paulo,São Paulo,2014-01-01,121.0,2.0,242.0,6.05,2014
+SKU-0000218,Forno-Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,SP8822,São Paulo,São Paulo,2014-02-01,355.0,1.15,408.24999999999994,10.206249999999999,2014
+SKU-0000219,Forno-Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1001,Maria Fernandes,SP8822,São Paulo,São Paulo,2014-03-01,355.0,1.15,408.24999999999994,10.206249999999999,2014
+SKU-0000220,Grill,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,SP8822,São Paulo,São Paulo,2014-04-01,366.0,1.15,420.9,10.5225,2014
+SKU-0000221,Grill,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,SP8822,São Paulo,São Paulo,2014-05-01,388.0,1.15,446.2,11.155,2014
+SKU-0000222,Grill,Eletrodomésticos,Doméstico,Consul,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2014-06-01,124.0,1.15,142.6,3.565,2014
+SKU-0000223,Grill,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,SP8822,São Paulo,São Paulo,2014-07-01,120.0,1.15,138.0,3.45,2014
+SKU-0000224,Grill,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,V7654,Vitória,Espírito Santo,2014-08-01,190.0,1.15,218.49999999999997,5.462499999999999,2014
+SKU-0000225,Forno-Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1004,Artur Moreira,R1296,Rio de Janeiro,Rio de Janeiro,2014-09-01,675.9,1.15,777.285,19.432125,2014
+SKU-0000226,Forno-Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,A9990,Belo Horizonte,Minas Gerais,2014-10-01,455.0,1.15,523.25,13.08125,2014
+SKU-0000227,Forno-Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,SP8822,São Paulo,São Paulo,2014-11-01,377.0,1.15,433.54999999999995,10.83875,2014
+SKU-0000228,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2014-12-01,678.12,1.15,779.838,19.495949999999997,2014
+SKU-0000229,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2015-01-02,789.45,1.15,907.8675,22.6966875,2015
+SKU-0000230,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2015-02-02,890.32,1.15,1023.8679999999999,25.596700000000002,2015
+SKU-0000231,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1006,Josias Silva,SP8822,São Paulo,São Paulo,2015-03-02,433.0,1.15,497.95,12.44875,2015
+SKU-0000232,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1007,Fernando Zambrini,A9990,Belo Horizonte,Minas Gerais,2015-04-02,455.0,1.15,523.25,13.08125,2015
+SKU-0000233,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1003,Mateus Gonçalves,SP8822,São Paulo,São Paulo,2015-05-02,677.0,1.15,778.55,19.46375,2015
+SKU-0000234,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,R1296,Rio de Janeiro,Rio de Janeiro,2015-06-02,345.0,1.15,396.74999999999994,9.91875,2015
+SKU-0000235,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1009,Ana Teixeira,SP8822,São Paulo,São Paulo,2015-07-02,713.0,1.15,819.9499999999999,20.49875,2015
+SKU-0000236,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1006,Josias Silva,SP8822,São Paulo,São Paulo,2015-08-02,322.0,1.15,370.29999999999995,9.257499999999999,2015
+SKU-0000237,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1006,Josias Silva,A9990,Belo Horizonte,Minas Gerais,2015-09-02,222.0,1.15,255.29999999999998,6.3825,2015
+SKU-0000238,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1003,Mateus Gonçalves,SP8822,São Paulo,São Paulo,2015-10-02,566.0,1.15,650.9,16.2725,2015
+SKU-0000239,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2015-11-02,678.34,1.15,780.091,19.502275,2015
+SKU-0000240,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1005,Rodrigo Fagundes,SP8822,São Paulo,São Paulo,2015-12-02,456.0,1.15,524.4,13.11,2015
+SKU-0000241,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1006,Josias Silva,P0761,Cascavel,Paraná,2015-01-02,290.0,1.15,333.5,8.3375,2015
+SKU-0000242,Aspirador,Eletroportáteis,Doméstico,Britânia,1007,Fernando Zambrini,SA7761,Salvador,Bahia,2015-02-02,121.0,2.0,242.0,6.05,2015
+SKU-0000243,Ar Condicionado,Eletrodomésticos,Industrial,Samsung,1003,Mateus Gonçalves,P0761,Cascavel,Paraná,2015-03-02,455.0,1.15,523.25,13.08125,2015
+SKU-0000244,Aspirador,Eletroportáteis,Doméstico,Britânia,1002,André Pereira,SA7761,Salvador,Bahia,2015-04-02,121.0,2.0,242.0,6.05,2015
+SKU-0000245,Ar Condicionado,Eletrodomésticos,Industrial,Samsung,1001,Maria Fernandes,V7654,Vitória,Espírito Santo,2015-05-02,1290.0,1.15,1483.4999999999998,37.0875,2015
+SKU-0000246,Aspirador,Eletroportáteis,Doméstico,Britânia,1001,Maria Fernandes,R1296,Rio de Janeiro,Rio de Janeiro,2015-06-02,121.0,2.0,242.0,6.05,2015
+SKU-0000247,Ar Condicionado,Eletrodomésticos,Industrial,Samsung,1001,Maria Fernandes,SP8822,São Paulo,São Paulo,2015-07-02,1229.0,1.15,1413.35,35.33375,2015
+SKU-0000248,Aspirador,Eletroportáteis,Doméstico,Britânia,1009,Ana Teixeira,A9990,Belo Horizonte,Minas Gerais,2015-08-02,121.0,2.0,242.0,6.05,2015
+SKU-0000249,Ar Condicionado,Eletrodomésticos,Industrial,Samsung,1004,Artur Moreira,SP8822,São Paulo,São Paulo,2015-09-02,1321.0,1.15,1519.1499999999999,37.97875,2015
+SKU-0000250,Aspirador,Eletroportáteis,Doméstico,Britânia,1007,Fernando Zambrini,R1296,Rio de Janeiro,Rio de Janeiro,2015-10-02,121.0,2.0,242.0,6.05,2015
+SKU-0000251,Ar Condicionado,Eletrodomésticos,Industrial,Samsung,1006,Josias Silva,SP8822,São Paulo,São Paulo,2015-11-02,1345.0,1.15,1546.7499999999998,38.668749999999996,2015
+SKU-0000252,Aspirador,Eletroportáteis,Doméstico,Britânia,1005,Rodrigo Fagundes,SP8822,São Paulo,São Paulo,2015-12-02,121.0,2.0,242.0,6.05,2015
+SKU-0000253,Aspirador,Eletroportáteis,Doméstico,Britânia,1009,Ana Teixeira,SP8821,São Paulo,São Paulo,2015-01-02,167.0,2.0,334.0,8.35,2015
+SKU-0000254,Aspirador,Eletroportáteis,Doméstico,Britânia,1002,André Pereira,SP8821,São Paulo,São Paulo,2015-02-02,167.0,2.0,334.0,8.35,2015
+SKU-0000255,Aspirador,Eletroportáteis,Doméstico,Britânia,1003,Mateus Gonçalves,SP8821,São Paulo,São Paulo,2015-03-02,167.0,2.0,334.0,8.35,2015
+SKU-0000256,Aspirador,Eletroportáteis,Doméstico,Britânia,1006,Josias Silva,SP8821,São Paulo,São Paulo,2015-04-02,167.0,2.0,334.0,8.35,2015
+SKU-0000257,Aspirador,Eletroportáteis,Doméstico,Britânia,1004,Artur Moreira,SP8821,São Paulo,São Paulo,2015-05-02,167.0,2.0,334.0,8.35,2015
+SKU-0000258,Aspirador,Eletroportáteis,Doméstico,Britânia,1004,Artur Moreira,SP8821,São Paulo,São Paulo,2015-06-02,167.0,2.0,334.0,8.35,2015
+SKU-0000259,Aspirador,Eletroportáteis,Doméstico,Britânia,1007,Fernando Zambrini,SP8821,São Paulo,São Paulo,2015-07-02,167.0,2.0,334.0,8.35,2015
+SKU-0000260,Aspirador,Eletroportáteis,Doméstico,Britânia,1004,Artur Moreira,SP8821,São Paulo,São Paulo,2015-08-02,167.0,2.0,334.0,8.35,2015
+SKU-0000261,Aspirador,Eletroportáteis,Doméstico,Britânia,1006,Josias Silva,SP8821,São Paulo,São Paulo,2015-09-02,167.0,2.0,334.0,8.35,2015
+SKU-0000262,Aspirador,Eletroportáteis,Doméstico,Britânia,1005,Rodrigo Fagundes,SP8821,São Paulo,São Paulo,2015-10-02,167.0,2.0,334.0,8.35,2015
+SKU-0000263,Aspirador,Eletroportáteis,Doméstico,Britânia,1003,Mateus Gonçalves,SP8821,São Paulo,São Paulo,2015-11-02,167.0,2.0,334.0,8.35,2015
+SKU-0000264,Aspirador,Eletroportáteis,Doméstico,Britânia,1004,Artur Moreira,SP8821,São Paulo,São Paulo,2015-12-02,167.0,2.0,334.0,8.35,2015
+SKU-0000265,Aspirador,Eletroportáteis,Doméstico,Britânia,1003,Mateus Gonçalves,SP8821,São Paulo,São Paulo,2015-01-02,167.0,2.0,334.0,8.35,2015
+SKU-0000266,Impressora Deskjet,Eletrônicos,Doméstico,Epson,1009,Ana Teixeira,SP8821,São Paulo,São Paulo,2015-02-02,713.0,1.23,876.99,21.92475,2015
+SKU-0000267,Impressora Deskjet,Eletrônicos,Doméstico,Epson,1002,André Pereira,SP8821,São Paulo,São Paulo,2015-03-02,713.0,1.23,876.99,21.92475,2015
+SKU-0000268,Impressora Deskjet,Eletrônicos,Doméstico,Epson,1001,Maria Fernandes,SP8821,São Paulo,São Paulo,2015-04-02,713.0,1.23,876.99,21.92475,2015
+SKU-0000269,Impressora Deskjet,Eletrônicos,Doméstico,Epson,1002,André Pereira,SP8821,São Paulo,São Paulo,2015-05-02,713.0,1.23,876.99,21.92475,2015
+SKU-0000270,Impressora Deskjet,Eletrônicos,Doméstico,Epson,1002,André Pereira,SP8821,São Paulo,São Paulo,2015-06-02,713.0,1.23,876.99,21.92475,2015
+SKU-0000271,Impressora Deskjet,Eletrônicos,Doméstico,Epson,1004,Artur Moreira,SP8821,São Paulo,São Paulo,2015-07-02,456.0,1.23,560.88,14.022,2015
+SKU-0000272,Impressora Deskjet,Eletrônicos,Doméstico,Epson,1002,André Pereira,SP8821,São Paulo,São Paulo,2015-08-02,713.0,1.23,876.99,21.92475,2015
+SKU-0000273,Impressora Deskjet,Eletrônicos,Doméstico,Epson,1002,André Pereira,SP8821,São Paulo,São Paulo,2015-09-02,713.0,1.23,876.99,21.92475,2015
+SKU-0000274,Impressora Deskjet,Eletrônicos,Doméstico,Epson,1004,Artur Moreira,SP8821,São Paulo,São Paulo,2015-10-02,765.34,1.23,941.3682,23.534205,2015
+SKU-0000275,Impressora Deskjet,Eletrônicos,Doméstico,Epson,1002,André Pereira,SP8821,São Paulo,São Paulo,2015-11-02,713.0,1.23,876.99,21.92475,2015
+SKU-0000276,Impressora Deskjet,Eletrônicos,Doméstico,Epson,1002,André Pereira,SP8821,São Paulo,São Paulo,2015-12-02,713.0,1.23,876.99,21.92475,2015
+SKU-0000277,Impressora Deskjet,Eletrônicos,Doméstico,Epson,1004,Artur Moreira,SP8821,São Paulo,São Paulo,2015-01-02,234.12,1.23,287.9676,7.19919,2015
+SKU-0000278,Ventilador,Eletroportáteis,Doméstico,Arno,1004,Artur Moreira,SP8821,São Paulo,São Paulo,2015-02-02,134.0,2.0,268.0,6.7,2015
+SKU-0000279,Ventilador,Eletroportáteis,Doméstico,Arno,1004,Artur Moreira,P0761,Cascavel,Paraná,2015-03-02,123.0,2.0,246.0,6.15,2015
+SKU-0000280,Ventilador,Eletroportáteis,Doméstico,Arno,1003,Mateus Gonçalves,SP8821,São Paulo,São Paulo,2015-04-02,167.0,2.0,334.0,8.35,2015
+SKU-0000281,Ventilador,Eletroportáteis,Doméstico,Arno,1004,Artur Moreira,S6543,Osasco,São Paulo,2015-05-02,189.0,2.0,378.0,9.45,2015
+SKU-0000282,Ventilador,Eletroportáteis,Doméstico,Arno,1005,Rodrigo Fagundes,P0761,Cascavel,Paraná,2015-06-02,134.0,2.0,268.0,6.7,2015
+SKU-0000283,Ventilador,Eletroportáteis,Doméstico,Arno,1001,Maria Fernandes,S6543,Osasco,São Paulo,2015-07-02,156.0,2.0,312.0,7.8,2015
+SKU-0000284,Ventilador,Eletroportáteis,Doméstico,Arno,1001,Maria Fernandes,S6543,Osasco,São Paulo,2015-08-02,123.0,2.0,246.0,6.15,2015
+SKU-0000285,Ventilador,Eletroportáteis,Doméstico,Arno,1001,Maria Fernandes,S6543,Osasco,São Paulo,2015-09-02,156.0,2.0,312.0,7.8,2015
+SKU-0000286,Ventilador,Eletroportáteis,Doméstico,Arno,1009,Ana Teixeira,SP8821,São Paulo,São Paulo,2015-10-02,178.0,2.0,356.0,8.9,2015
+SKU-0000287,Ventilador,Eletroportáteis,Doméstico,Arno,1008,Aline Sutter,SP8821,São Paulo,São Paulo,2015-11-02,139.0,2.0,278.0,6.95,2015
+SKU-0000288,Ventilador,Eletroportáteis,Doméstico,Arno,1007,Fernando Zambrini,SP8821,São Paulo,São Paulo,2015-12-02,123.0,2.0,246.0,6.15,2015
+SKU-0000289,Ventilador,Eletroportáteis,Doméstico,Arno,1009,Ana Teixeira,A9990,Belo Horizonte,Minas Gerais,2015-01-09,123.0,2.0,246.0,6.15,2015
+SKU-0000290,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1009,Ana Teixeira,A9990,Belo Horizonte,Minas Gerais,2015-01-10,1299.0,1.15,1493.85,37.34625,2015
+SKU-0000291,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1003,Mateus Gonçalves,A9991,Belo Horizonte,Minas Gerais,2015-02-11,761.0,1.15,875.15,21.87875,2015
+SKU-0000292,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1004,Artur Moreira,V7654,Vitória,Espírito Santo,2015-03-12,765.0,1.15,879.7499999999999,21.993749999999995,2015
+SKU-0000293,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1005,Rodrigo Fagundes,V7654,Vitória,Espírito Santo,2015-03-13,456.0,1.15,524.4,13.11,2015
+SKU-0000294,Morotola Moto G5,Celulares,Doméstico,Motorola,1006,Josias Silva,A9991,Belo Horizonte,Minas Gerais,2015-03-14,1230.0,1.2,1476.0,36.9,2015
+SKU-0000295,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1007,Fernando Zambrini,A9991,Belo Horizonte,Minas Gerais,2015-04-15,1212.0,1.15,1393.8,34.845,2015
+SKU-0000296,Morotola Moto G5,Celulares,Doméstico,Motorola,1004,Artur Moreira,A9991,Belo Horizonte,Minas Gerais,2015-04-16,1230.0,1.2,1476.0,36.9,2015
+SKU-0000297,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,V7654,Vitória,Espírito Santo,2015-05-17,1299.0,1.15,1493.85,37.34625,2015
+SKU-0000298,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,V7654,Vitória,Espírito Santo,2015-05-18,1299.0,1.15,1493.85,37.34625,2015
+SKU-0000299,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1001,Maria Fernandes,A9991,Belo Horizonte,Minas Gerais,2015-05-19,1299.0,1.15,1493.85,37.34625,2015
+SKU-0000300,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,A9991,Belo Horizonte,Minas Gerais,2015-06-20,1299.0,1.15,1493.85,37.34625,2015
+SKU-0000301,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1004,Artur Moreira,A9991,Belo Horizonte,Minas Gerais,2015-07-21,456.0,1.15,524.4,13.11,2015
+SKU-0000302,Morotola Moto G5,Celulares,Doméstico,Motorola,1002,André Pereira,V7654,Vitória,Espírito Santo,2015-07-22,1230.0,1.2,1476.0,36.9,2015
+SKU-0000303,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1003,Mateus Gonçalves,V7654,Vitória,Espírito Santo,2015-09-23,409.0,1.15,470.34999999999997,11.75875,2015
+SKU-0000304,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1003,Mateus Gonçalves,V7654,Vitória,Espírito Santo,2015-10-24,766.0,1.15,880.9,22.0225,2015
+SKU-0000305,Morotola Moto G5,Celulares,Doméstico,Motorola,1002,André Pereira,A9991,Belo Horizonte,Minas Gerais,2015-11-25,1230.0,1.2,1476.0,36.9,2015
+SKU-0000306,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1004,Artur Moreira,V7654,Vitória,Espírito Santo,2015-11-26,567.0,1.15,652.05,16.30125,2015
+SKU-0000307,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1001,Maria Fernandes,A9991,Belo Horizonte,Minas Gerais,2015-11-27,1299.0,1.15,1493.85,37.34625,2015
+SKU-0000308,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1009,Ana Teixeira,R1296,Rio de Janeiro,Rio de Janeiro,2014-10-04,1299.0,1.15,1493.85,37.34625,2014
+SKU-0000309,Morotola Moto G5,Celulares,Doméstico,Motorola,1002,André Pereira,R1296,Rio de Janeiro,Rio de Janeiro,2014-10-04,1230.0,1.2,1476.0,36.9,2014
+SKU-0000310,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1001,Maria Fernandes,R1296,Rio de Janeiro,Rio de Janeiro,2014-01-01,1299.0,1.15,1493.85,37.34625,2014
+SKU-0000311,Morotola Moto G5,Celulares,Doméstico,Motorola,1002,André Pereira,R1296,Rio de Janeiro,Rio de Janeiro,2014-02-02,1230.0,1.2,1476.0,36.9,2014
+SKU-0000312,Morotola Moto G5,Celulares,Doméstico,Motorola,1002,André Pereira,R1296,Rio de Janeiro,Rio de Janeiro,2014-03-03,1230.0,1.2,1476.0,36.9,2014
+SKU-0000313,Morotola Moto G5,Celulares,Doméstico,Motorola,1002,André Pereira,R1296,Rio de Janeiro,Rio de Janeiro,2014-04-04,1230.0,1.2,1476.0,36.9,2014
+SKU-0000314,Morotola Moto G5,Celulares,Doméstico,Motorola,1002,André Pereira,R1296,Rio de Janeiro,Rio de Janeiro,2014-05-04,1230.0,1.2,1476.0,36.9,2014
+SKU-0000315,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1009,Ana Teixeira,R1296,Rio de Janeiro,Rio de Janeiro,2014-06-04,1299.0,1.15,1493.85,37.34625,2014
+SKU-0000316,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1001,Maria Fernandes,R1296,Rio de Janeiro,Rio de Janeiro,2014-07-04,1299.0,1.15,1493.85,37.34625,2014
+SKU-0000317,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1003,Mateus Gonçalves,R1296,Rio de Janeiro,Rio de Janeiro,2014-08-04,137.0,1.15,157.54999999999998,3.9387499999999993,2014
+SKU-0000318,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1004,Artur Moreira,R1296,Rio de Janeiro,Rio de Janeiro,2014-09-04,632.0,1.15,726.8,18.17,2014
+SKU-0000319,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1005,Rodrigo Fagundes,R1296,Rio de Janeiro,Rio de Janeiro,2014-11-04,761.0,1.15,875.15,21.87875,2014
+SKU-0000320,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1009,Ana Teixeira,R1296,Rio de Janeiro,Rio de Janeiro,2014-11-04,1299.0,1.15,1493.85,37.34625,2014
+SKU-0000321,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,R1296,Rio de Janeiro,Rio de Janeiro,2014-12-04,1299.0,1.15,1493.85,37.34625,2014
+SKU-0000322,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1001,Maria Fernandes,R1296,Rio de Janeiro,Rio de Janeiro,2014-12-04,1299.0,1.15,1493.85,37.34625,2014
+SKU-0000323,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1005,Rodrigo Fagundes,R1296,Rio de Janeiro,Rio de Janeiro,2015-01-02,543.0,1.15,624.4499999999999,15.611249999999998,2015
+SKU-0000324,Morotola Moto G5,Celulares,Doméstico,Motorola,1002,André Pereira,R1296,Rio de Janeiro,Rio de Janeiro,2015-02-02,1230.0,1.2,1476.0,36.9,2015
+SKU-0000325,Morotola Moto G5,Celulares,Doméstico,Motorola,1002,André Pereira,R1298,Campos,Rio de Janeiro,2015-03-02,1230.0,1.2,1476.0,36.9,2015
+SKU-0000326,Morotola Moto G5,Celulares,Doméstico,Motorola,1001,Maria Fernandes,R1298,Campos,Rio de Janeiro,2015-04-02,1230.0,1.2,1476.0,36.9,2015
+SKU-0000327,Morotola Moto G5,Celulares,Doméstico,Motorola,1001,Maria Fernandes,R1298,Campos,Rio de Janeiro,2015-05-02,1230.0,1.2,1476.0,36.9,2015
+SKU-0000328,Morotola Moto G5,Celulares,Doméstico,Motorola,1001,Maria Fernandes,R1296,Rio de Janeiro,Rio de Janeiro,2015-06-02,1230.0,1.2,1476.0,36.9,2015
+SKU-0000329,Morotola Moto G5,Celulares,Doméstico,Motorola,1001,Maria Fernandes,R1296,Rio de Janeiro,Rio de Janeiro,2015-07-02,1230.0,1.2,1476.0,36.9,2015
+SKU-0000330,Morotola Moto G5,Celulares,Doméstico,Motorola,1001,Maria Fernandes,R1296,Rio de Janeiro,Rio de Janeiro,2015-08-02,1230.0,1.2,1476.0,36.9,2015
+SKU-0000331,Morotola Moto G5,Celulares,Doméstico,Motorola,1001,Maria Fernandes,R1296,Rio de Janeiro,Rio de Janeiro,2015-09-02,1230.0,1.2,1476.0,36.9,2015
+SKU-0000332,Morotola Moto G5,Celulares,Doméstico,Motorola,1001,Maria Fernandes,R1296,Rio de Janeiro,Rio de Janeiro,2015-10-02,1230.0,1.2,1476.0,36.9,2015
+SKU-0000333,Morotola Moto G5,Celulares,Doméstico,Motorola,1001,Maria Fernandes,R1296,Rio de Janeiro,Rio de Janeiro,2015-11-02,1230.0,1.2,1476.0,36.9,2015
+SKU-0000334,Morotola Moto G5,Celulares,Doméstico,Motorola,1001,Maria Fernandes,R1296,Rio de Janeiro,Rio de Janeiro,2015-12-02,1230.0,1.2,1476.0,36.9,2015
+SKU-0000335,Morotola Moto G5,Celulares,Doméstico,Motorola,1005,Rodrigo Fagundes,R1296,Rio de Janeiro,Rio de Janeiro,2015-01-02,1230.0,1.2,1476.0,36.9,2015
+SKU-0000336,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,R1296,Rio de Janeiro,Rio de Janeiro,2015-02-02,1299.0,1.15,1493.85,37.34625,2015
+SKU-0000337,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1009,Ana Teixeira,R1296,Rio de Janeiro,Rio de Janeiro,2015-03-02,1299.0,1.15,1493.85,37.34625,2015
+SKU-0000338,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1001,Maria Fernandes,R1296,Rio de Janeiro,Rio de Janeiro,2015-04-02,1299.0,1.15,1493.85,37.34625,2015
+SKU-0000339,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1003,Mateus Gonçalves,R1296,Rio de Janeiro,Rio de Janeiro,2015-05-02,899.0,1.15,1033.85,25.84625,2015
+SKU-0000340,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1004,Artur Moreira,R1296,Rio de Janeiro,Rio de Janeiro,2015-06-02,345.87,1.15,397.7505,9.9437625,2015
+SKU-0000341,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1005,Rodrigo Fagundes,R1296,Rio de Janeiro,Rio de Janeiro,2015-07-02,456.0,1.15,524.4,13.11,2015
+SKU-0000342,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1009,Ana Teixeira,R1296,Rio de Janeiro,Rio de Janeiro,2015-08-02,1299.0,1.15,1493.85,37.34625,2015
+SKU-0000343,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,R1296,Rio de Janeiro,Rio de Janeiro,2015-09-02,1299.0,1.15,1493.85,37.34625,2015
+SKU-0000344,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1001,Maria Fernandes,R1296,Rio de Janeiro,Rio de Janeiro,2015-10-02,1299.0,1.15,1493.85,37.34625,2015
+SKU-0000345,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1005,Rodrigo Fagundes,R1296,Rio de Janeiro,Rio de Janeiro,2015-11-02,567.0,1.15,652.05,16.30125,2015
+SKU-0000346,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-12-02,1299.0,1.15,1493.85,37.34625,2015
+SKU-0000347,Geladeira Duplex,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2014-01-01,1299.0,1.15,1493.85,37.34625,2014
+SKU-0000348,Aspirador,Eletroportáteis,Doméstico,Britânia,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2014-02-01,167.0,2.0,334.0,8.35,2014
+SKU-0000349,Aspirador,Eletroportáteis,Doméstico,Britânia,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2014-03-01,167.0,2.0,334.0,8.35,2014
+SKU-0000350,Aspirador,Eletroportáteis,Doméstico,Britânia,1001,Maria Fernandes,R1297,Petrópolis,Rio de Janeiro,2014-04-01,167.0,2.0,334.0,8.35,2014
+SKU-0000351,Aspirador,Eletroportáteis,Doméstico,Britânia,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2014-05-01,149.0,2.0,298.0,7.45,2014
+SKU-0000352,Aspirador,Eletroportáteis,Doméstico,Britânia,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2014-06-01,149.0,2.0,298.0,7.45,2014
+SKU-0000353,Aspirador,Eletroportáteis,Doméstico,Britânia,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2014-07-01,149.0,2.0,298.0,7.45,2014
+SKU-0000354,Aspirador,Eletroportáteis,Doméstico,Britânia,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2014-08-01,149.0,2.0,298.0,7.45,2014
+SKU-0000355,Aspirador,Eletroportáteis,Doméstico,Britânia,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2014-09-01,149.0,2.0,298.0,7.45,2014
+SKU-0000356,Aspirador,Eletroportáteis,Doméstico,Britânia,1001,Maria Fernandes,R1297,Petrópolis,Rio de Janeiro,2014-10-01,149.0,2.0,298.0,7.45,2014
+SKU-0000357,Aspirador,Eletroportáteis,Doméstico,Britânia,1005,Rodrigo Fagundes,R1297,Petrópolis,Rio de Janeiro,2014-11-01,149.0,2.0,298.0,7.45,2014
+SKU-0000358,Aspirador,Eletroportáteis,Doméstico,Britânia,1002,André Pereira,R1297,Petrópolis,Rio de Janeiro,2014-12-01,149.0,2.0,298.0,7.45,2014
+SKU-0000359,Aspirador,Eletroportáteis,Doméstico,Britânia,1009,Ana Teixeira,R1297,Petrópolis,Rio de Janeiro,2015-01-02,149.0,2.0,298.0,7.45,2015
+SKU-0000360,Aspirador,Eletroportáteis,Doméstico,Britânia,1001,Maria Fernandes,R1297,Petrópolis,Rio de Janeiro,2015-02-02,149.0,2.0,298.0,7.45,2015
+SKU-0000361,Aspirador,Eletroportáteis,Doméstico,Britânia,1003,Mateus Gonçalves,R1297,Petrópolis,Rio de Janeiro,2015-03-02,149.0,2.0,298.0,7.45,2015
+SKU-0000362,Aspirador,Eletroportáteis,Doméstico,Britânia,1004,Artur Moreira,R1297,Petrópolis,Rio de Janeiro,2015-04-02,765.45,2.0,1530.9,38.2725,2015
+SKU-0000363,Aspirador,Eletroportáteis,Doméstico,Britânia,1005,Rodrigo Fagundes,R1297,Petrópolis,Rio de Janeiro,2015-05-02,149.0,2.0,298.0,7.45,2015
+SKU-0000364,Aspirador,Eletroportáteis,Doméstico,Britânia,1009,Ana Teixeira,R1297,Petrópolis,Rio de Janeiro,2015-06-02,149.0,2.0,298.0,7.45,2015
+SKU-0000365,Aspirador,Eletroportáteis,Doméstico,Britânia,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-07-02,149.0,2.0,298.0,7.45,2015
+SKU-0000366,Aspirador,Eletroportáteis,Doméstico,Britânia,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2015-08-02,149.0,2.0,298.0,7.45,2015
+SKU-0000367,Processador de Alimentos,Eletroportáteis,Doméstico,Philco,1005,Rodrigo Fagundes,R1295,Rio de Janeiro,Rio de Janeiro,2015-09-02,149.0,2.0,298.0,7.45,2015
+SKU-0000368,Processador de Alimentos,Eletroportáteis,Doméstico,Philco,1002,André Pereira,R1298,Campos,Rio de Janeiro,2015-10-02,149.0,2.0,298.0,7.45,2015
+SKU-0000369,Processador de Alimentos,Eletroportáteis,Doméstico,Philco,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-11-02,149.0,2.0,298.0,7.45,2015
+SKU-0000370,Processador de Alimentos,Eletroportáteis,Doméstico,Philco,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2015-12-02,149.0,2.0,298.0,7.45,2015
+SKU-0000371,Processador de Alimentos,Eletroportáteis,Doméstico,Philco,1001,Maria Fernandes,R1298,Campos,Rio de Janeiro,2014-01-01,149.0,2.0,298.0,7.45,2014
+SKU-0000372,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2014-02-01,1299.0,1.15,1493.85,37.34625,2014
+SKU-0000373,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2014-03-01,455.0,1.15,523.25,13.08125,2014
+SKU-0000374,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2014-04-01,455.0,1.15,523.25,13.08125,2014
+SKU-0000375,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2014-05-01,455.0,1.15,523.25,13.08125,2014
+SKU-0000376,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2014-06-01,455.0,1.15,523.25,13.08125,2014
+SKU-0000377,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2014-07-01,455.0,1.15,523.25,13.08125,2014
+SKU-0000378,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2014-08-01,455.0,1.15,523.25,13.08125,2014
+SKU-0000379,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1005,Rodrigo Fagundes,R1295,Rio de Janeiro,Rio de Janeiro,2014-09-01,123.0,1.15,141.45,3.53625,2014
+SKU-0000380,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2014-10-01,455.0,1.15,523.25,13.08125,2014
+SKU-0000381,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1009,Ana Teixeira,R1295,Rio de Janeiro,Rio de Janeiro,2014-11-01,455.0,1.15,523.25,13.08125,2014
+SKU-0000382,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2014-12-01,455.0,1.15,523.25,13.08125,2014
+SKU-0000383,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1003,Mateus Gonçalves,R1295,Rio de Janeiro,Rio de Janeiro,2015-01-02,566.0,1.15,650.9,16.2725,2015
+SKU-0000384,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1004,Artur Moreira,R1295,Rio de Janeiro,Rio de Janeiro,2015-02-02,788.9,1.15,907.2349999999999,22.680874999999997,2015
+SKU-0000385,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1005,Rodrigo Fagundes,R1295,Rio de Janeiro,Rio de Janeiro,2015-03-02,567.0,1.15,652.05,16.30125,2015
+SKU-0000386,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1009,Ana Teixeira,R1295,Rio de Janeiro,Rio de Janeiro,2015-04-02,455.0,1.15,523.25,13.08125,2015
+SKU-0000387,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-05-02,455.0,1.15,523.25,13.08125,2015
+SKU-0000388,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2015-06-02,455.0,1.15,523.25,13.08125,2015
+SKU-0000389,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1005,Rodrigo Fagundes,R1295,Rio de Janeiro,Rio de Janeiro,2015-07-02,123.0,1.15,141.45,3.53625,2015
+SKU-0000390,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-08-02,455.0,1.15,523.25,13.08125,2015
+SKU-0000391,Micro-Ondas,Eletrodomésticos,Doméstico,Consul,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-09-02,455.0,1.15,523.25,13.08125,2015
+SKU-0000392,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2015-10-02,455.0,1.15,523.25,13.08125,2015
+SKU-0000393,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2015-11-02,455.0,1.15,523.25,13.08125,2015
+SKU-0000394,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2015-12-02,455.0,1.15,523.25,13.08125,2015
+SKU-0000395,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2015-02-02,455.0,1.15,523.25,13.08125,2015
+SKU-0000396,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2015-04-02,455.0,1.15,523.25,13.08125,2015
+SKU-0000397,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2015-05-02,455.0,1.15,523.25,13.08125,2015
+SKU-0000398,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2015-06-02,455.0,1.15,523.25,13.08125,2015
+SKU-0000399,Micro-Ondas,Eletrodomésticos,Doméstico,Panasonic,1001,Maria Fernandes,R1295,Rio de Janeiro,Rio de Janeiro,2015-07-02,455.0,1.15,523.25,13.08125,2015
+SKU-0000400,Processador de Alimentos,Eletroportáteis,Doméstico,Philco,1001,Maria Fernandes,R1298,Campos,Rio de Janeiro,2015-08-02,149.0,2.0,298.0,7.45,2015
+SKU-0000401,Ar Condicionado,Eletrodomésticos,Doméstico,Samsung,1005,Rodrigo Fagundes,R1295,Rio de Janeiro,Rio de Janeiro,2015-09-02,1390.0,1.15,1598.4999999999998,39.9625,2015
+SKU-0000402,Processador de Alimentos,Eletroportáteis,Doméstico,Philco,1001,Maria Fernandes,R1298,Campos,Rio de Janeiro,2015-10-02,149.0,2.0,298.0,7.45,2015
+SKU-0000403,Ar Condicionado,Eletrodomésticos,Doméstico,Samsung,1004,Artur Moreira,R1295,Rio de Janeiro,Rio de Janeiro,2015-11-02,1120.0,1.15,1288.0,32.2,2015
+SKU-0000404,Processador de Alimentos,Eletroportáteis,Doméstico,Philco,1001,Maria Fernandes,R1298,Campos,Rio de Janeiro,2015-12-02,149.0,2.0,298.0,7.45,2015
+SKU-0000405,Processador de Alimentos,Eletroportáteis,Doméstico,Philco,1002,André Pereira,R1298,Campos,Rio de Janeiro,2015-01-02,149.0,2.0,298.0,7.45,2015
+SKU-0000406,Processador de Alimentos,Eletroportáteis,Doméstico,Philco,1002,André Pereira,R1298,Campos,Rio de Janeiro,2015-02-02,149.0,2.0,298.0,7.45,2015
+SKU-0000407,Processador de Alimentos,Eletroportáteis,Doméstico,Philco,1001,Maria Fernandes,R1298,Campos,Rio de Janeiro,2015-03-02,149.0,2.0,298.0,7.45,2015
+SKU-0000408,Processador de Alimentos,Eletroportáteis,Doméstico,Philco,1001,Maria Fernandes,R1298,Campos,Rio de Janeiro,2015-04-02,149.0,2.0,298.0,7.45,2015
+SKU-0000409,Processador de Alimentos,Eletroportáteis,Doméstico,Philco,1009,Ana Teixeira,R1295,Rio de Janeiro,Rio de Janeiro,2015-05-02,149.0,2.0,298.0,7.45,2015
+SKU-0000410,Liquidificador,Eletroportáteis,Doméstico,Arno,1006,Josias Silva,R1295,Rio de Janeiro,Rio de Janeiro,2015-06-02,149.0,2.0,298.0,7.45,2015
+SKU-0000411,Liquidificador,Eletroportáteis,Doméstico,Arno,1007,Fernando Zambrini,R1295,Rio de Janeiro,Rio de Janeiro,2015-07-02,149.0,2.0,298.0,7.45,2015
+SKU-0000412,Liquidificador,Eletroportáteis,Doméstico,Arno,1006,Josias Silva,R1295,Rio de Janeiro,Rio de Janeiro,2015-08-02,149.0,2.0,298.0,7.45,2015
+SKU-0000413,Liquidificador,Eletroportáteis,Doméstico,Arno,1005,Rodrigo Fagundes,R1295,Rio de Janeiro,Rio de Janeiro,2015-09-02,149.0,2.0,298.0,7.45,2015
+SKU-0000414,Liquidificador,Eletroportáteis,Doméstico,Arno,1005,Rodrigo Fagundes,R1295,Rio de Janeiro,Rio de Janeiro,2015-10-02,149.0,2.0,298.0,7.45,2015
+SKU-0000415,Liquidificador,Eletroportáteis,Doméstico,Arno,1005,Rodrigo Fagundes,R1295,Rio de Janeiro,Rio de Janeiro,2015-11-02,149.0,2.0,298.0,7.45,2015
+SKU-0000416,Liquidificador,Eletroportáteis,Doméstico,Arno,1005,Rodrigo Fagundes,R1295,Rio de Janeiro,Rio de Janeiro,2015-12-02,121.0,2.0,242.0,6.05,2015
+SKU-0000417,Liquidificador,Eletroportáteis,Doméstico,Arno,1005,Rodrigo Fagundes,R1295,Rio de Janeiro,Rio de Janeiro,2015-01-02,121.0,2.0,242.0,6.05,2015
+SKU-0000418,Impressora Deskjet,Eletrônicos,Doméstico,HP,1005,Rodrigo Fagundes,R1295,Rio de Janeiro,Rio de Janeiro,2015-02-02,788.0,1.23,969.24,24.230999999999998,2015
+SKU-0000419,Impressora Deskjet,Eletrônicos,Doméstico,HP,1005,Rodrigo Fagundes,R1295,Rio de Janeiro,Rio de Janeiro,2015-03-02,900.0,1.23,1107.0,27.675,2015
+SKU-0000420,Impressora Deskjet,Eletrônicos,Doméstico,HP,1005,Rodrigo Fagundes,R1295,Rio de Janeiro,Rio de Janeiro,2015-04-02,455.0,1.23,559.65,13.99125,2015
+SKU-0000421,Impressora Deskjet,Eletrônicos,Doméstico,HP,1005,Rodrigo Fagundes,R1295,Rio de Janeiro,Rio de Janeiro,2015-05-02,390.0,1.23,479.7,11.9925,2015
+SKU-0000422,Impressora Deskjet,Eletrônicos,Doméstico,HP,1005,Rodrigo Fagundes,R1295,Rio de Janeiro,Rio de Janeiro,2015-06-02,899.0,1.23,1105.77,27.644250000000003,2015
+SKU-0000423,Impressora Deskjet,Eletrônicos,Doméstico,HP,1005,Rodrigo Fagundes,R1295,Rio de Janeiro,Rio de Janeiro,2015-07-02,455.0,1.23,559.65,13.99125,2015
+SKU-0000424,Impressora Deskjet,Eletrônicos,Doméstico,HP,1008,Aline Sutter,R1295,Rio de Janeiro,Rio de Janeiro,2015-08-02,234.0,1.23,287.82,7.195499999999999,2015
+SKU-0000425,Impressora Deskjet,Eletrônicos,Doméstico,HP,1008,Aline Sutter,R1295,Rio de Janeiro,Rio de Janeiro,2015-09-02,289.0,1.23,355.46999999999997,8.88675,2015
+SKU-0000426,Impressora Deskjet,Eletrônicos,Doméstico,HP,1008,Aline Sutter,R1295,Rio de Janeiro,Rio de Janeiro,2015-10-02,433.0,1.23,532.59,13.314750000000002,2015
+SKU-0000427,Impressora Deskjet,Eletrônicos,Doméstico,HP,1008,Aline Sutter,R1295,Rio de Janeiro,Rio de Janeiro,2015-11-02,345.0,1.23,424.34999999999997,10.60875,2015
+SKU-0000428,Impressora Deskjet,Eletrônicos,Doméstico,HP,1008,Aline Sutter,R1295,Rio de Janeiro,Rio de Janeiro,2015-12-02,346.0,1.23,425.58,10.6395,2015
+SKU-0000429,Impressora Deskjet,Eletrônicos,Doméstico,HP,1008,Aline Sutter,R1295,Rio de Janeiro,Rio de Janeiro,2015-01-02,456.0,1.23,560.88,14.022,2015
+SKU-0000430,Ventilador,Eletroportáteis,Doméstico,Arno,1009,Ana Teixeira,R1295,Rio de Janeiro,Rio de Janeiro,2015-02-02,145.0,2.0,290.0,7.25,2015
+SKU-0000431,Ventilador,Eletroportáteis,Doméstico,Arno,1006,Josias Silva,R1295,Rio de Janeiro,Rio de Janeiro,2015-03-02,124.0,2.0,248.0,6.2,2015
+SKU-0000432,Ventilador,Eletroportáteis,Doméstico,Arno,1006,Josias Silva,R1297,Petrópolis,Rio de Janeiro,2015-05-02,128.0,2.0,256.0,6.4,2015
+SKU-0000433,Ventilador,Eletroportáteis,Doméstico,Arno,1003,Mateus Gonçalves,R1297,Petrópolis,Rio de Janeiro,2015-07-02,127.0,2.0,254.0,6.35,2015
+SKU-0000434,Ventilador,Eletroportáteis,Doméstico,Arno,1004,Artur Moreira,R1297,Petrópolis,Rio de Janeiro,2015-08-02,12.0,2.0,24.0,0.6,2015
+SKU-0000435,Ventilador,Eletroportáteis,Doméstico,Arno,1005,Rodrigo Fagundes,R1297,Petrópolis,Rio de Janeiro,2015-09-02,124.0,2.0,248.0,6.2,2015
+SKU-0000436,Ventilador,Eletroportáteis,Doméstico,Arno,1006,Josias Silva,R1295,Rio de Janeiro,Rio de Janeiro,2015-10-02,124.0,2.0,248.0,6.2,2015
+SKU-0000437,Ventilador,Eletroportáteis,Doméstico,Arno,1007,Fernando Zambrini,R1295,Rio de Janeiro,Rio de Janeiro,2015-11-02,128.0,2.0,256.0,6.4,2015
+SKU-0000438,Ventilador,Eletroportáteis,Doméstico,Arno,1003,Mateus Gonçalves,R1295,Rio de Janeiro,Rio de Janeiro,2015-12-02,134.0,2.0,268.0,6.7,2015
+SKU-0000439,Ventilador,Eletroportáteis,Doméstico,Arno,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-01-09,143.0,2.0,286.0,7.15,2015
+SKU-0000440,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-01-10,1234.0,1.15,1419.1,35.4775,2015
+SKU-0000441,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-02-11,1234.0,1.15,1419.1,35.4775,2015
+SKU-0000442,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-03-12,1234.0,1.15,1419.1,35.4775,2015
+SKU-0000443,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-03-13,1234.0,1.15,1419.1,35.4775,2015
+SKU-0000444,Morotola Moto G5,Celulares,Doméstico,Motorola,1006,Josias Silva,R1295,Rio de Janeiro,Rio de Janeiro,2015-03-14,1230.0,1.2,1476.0,36.9,2015
+SKU-0000445,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-04-15,1234.0,1.15,1419.1,35.4775,2015
+SKU-0000446,Morotola Moto G5,Celulares,Doméstico,Motorola,1007,Fernando Zambrini,R1295,Rio de Janeiro,Rio de Janeiro,2015-04-16,1230.0,1.2,1476.0,36.9,2015
+SKU-0000447,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-05-17,1234.0,1.15,1419.1,35.4775,2015
+SKU-0000448,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-05-18,1234.0,1.15,1419.1,35.4775,2015
+SKU-0000449,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-05-19,1234.0,1.15,1419.1,35.4775,2015
+SKU-0000450,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-06-20,1234.0,1.15,1419.1,35.4775,2015
+SKU-0000451,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-07-21,1234.0,1.15,1419.1,35.4775,2015
+SKU-0000452,Morotola Moto G5,Celulares,Doméstico,Motorola,1007,Fernando Zambrini,R1295,Rio de Janeiro,Rio de Janeiro,2015-07-22,1230.0,1.2,1476.0,36.9,2015
+SKU-0000453,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-09-23,1234.0,1.15,1419.1,35.4775,2015
+SKU-0000454,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-10-24,1234.0,1.15,1419.1,35.4775,2015
+SKU-0000455,Morotola Moto G5,Celulares,Doméstico,Motorola,1008,Aline Sutter,R1295,Rio de Janeiro,Rio de Janeiro,2015-11-25,1230.0,1.2,1476.0,36.9,2015
+SKU-0000456,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-11-26,1234.0,1.15,1419.1,35.4775,2015
+SKU-0000457,Geladeira Duplex,Eletrodomésticos,Doméstico,Brastemp,1002,André Pereira,R1295,Rio de Janeiro,Rio de Janeiro,2015-11-27,1234.0,1.15,1419.1,35.4775,2015
